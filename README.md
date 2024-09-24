@@ -1,15 +1,13 @@
-# Parqueo 
+# PARKING
 
-Esta es una aplicación para gestionar el estacionamiento de empleados de una empresa. Los empleados pueden registrar su vehículo, y se puede filtrar por tipo de vehículo y buscar por nombre o placa.
-
+Este proyecto corresponde al Modulo 6 del Diplomado de FullStack Dev - USIP
 ## Instrucciones para ejecutar el proyecto
 
 1. Clona este repositorio:
    ```bash
-   git remote add origin https://github.com/CarlaNicol/parqueo.git
+   git remote add origin https://github.com/Renevc14/M6_VueJs_Parking.git
    cd parqueo
    npm install
-   npm run json-server
    npm run serve
    http://localhost:8080
    
