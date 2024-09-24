@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "vehiculos": [
+    {
+      "nombreEmpleado": "Juan Perez",
+      "area": "Producción",
+      "tipoVehiculo": "Automóvil",
+      "placa": "ABC123",
+      "color": "Rojo"
+    },
+    {
+      "nombreEmpleado": "María García",
+      "area": "Finanzas",
+      "tipoVehiculo": "Moto",
+      "placa": "DEF456",
+      "color": "Azul" },
+    {
+      "nombreEmpleado": "Carlos Hernández",
+      "area": "Contabilidad",
+      "tipoVehiculo": "Automóvil",
+      "placa": "GHI789",
+      "color": "Negro"
+    }
+]
+}
